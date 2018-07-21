@@ -35,7 +35,7 @@ namespace Pubflix.Controllers
 
 
 
-        //Other Routes / Configurations that aren't set up yet:
+     /*Other Routes / Configurations that aren't set up yet:
         [Route("movies/released/{year}/{month:regex(\\d{4}):range(1,12)}")]
         public ActionResult ByReleaseDate(int year, int month)
         {
@@ -59,5 +59,7 @@ namespace Pubflix.Controllers
 
             return Content(String.Format("pageIndex={0}&sortBy={1}", pageIndex, sortBy));
         }
+        */
     }
+    
 }
