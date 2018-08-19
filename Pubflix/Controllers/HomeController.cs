@@ -13,18 +13,25 @@ namespace Pubflix.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Customers()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Manage all of your Customers in one, convenient location.";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Movies()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Manage your available movie content all in one place.";
 
             return View();
         }
+        public ActionResult Register()
+        {
+            ViewBag.Message = "Your register or login portal.";
+
+            return View();
+        }
+
     }
 }
