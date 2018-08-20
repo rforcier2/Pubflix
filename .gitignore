@@ -260,4 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 
-Scripts/* linguist-vendored
+Pubflix/Scripts/*.js linguist-vendored
