@@ -2,7 +2,7 @@
 My fictitious online movie service. End project will have user accounts and admin accounts used for renting movies to users.
 
 # Purpose:
-To become more familiar with MVC framework and ASP.NET as a whole. As well as fine-tuning other skills
+To become more familiar with MVC framework and ASP.NET as a whole. As well as fine-tuning other skills in C#
 
 # License
 Copyright 2018 Starlime
